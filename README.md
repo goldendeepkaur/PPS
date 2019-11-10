@@ -3,13 +3,13 @@
 
 ----
 # ESC-18104/18105 Programming for Problem Solving
-----
-**Name-** Arshdeep Swarn 
-**Branch-** CSE 
-**SECTION**- C1 
-**ROLL NUMBER-** 1915303
-
-----
+--
+**Name:- Arshdeep Swarn** 
+**Branch:- CSE** 
+**SECTION:- C1** 
+**ROLL NUMBER:- 1915303**
+**Submitted To:- Ms Goldendeep Kaur**
+--
 ## 1. TO PRINT NAME USING PUTS
     include<stdio.h> 
     int main() 
