@@ -23,7 +23,6 @@ return 0;
 ![](https://i.imgur.com/C6U98D9.png?1)
 
 2) To print College address.
-        /* College Address */
 ```c 
 #include<stdio.h>
 int main() {
@@ -38,7 +37,6 @@ return 0;
 
 
 3) Program to add two integers.
-     /* To add two integers */
 ```c
 #include <stdio.h>
 int main() {
