@@ -430,7 +430,7 @@ int main() {
 ```C
 /* Program to check prime no. */
 
-#include <stdio.h>
+
 #include <stdlib.h>
  
 int main() {
