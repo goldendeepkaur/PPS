@@ -10,7 +10,6 @@
 
                    Submitted to - Ms. Goldendendeep kaur
 1) To print my name.
-      /* Program to print your name */
 ```c
  #include<stdio.h>
 int main() {
@@ -21,7 +20,7 @@ puts("$$$$$$$$$$$$$$$");
 return 0;
 }
 ```
-![](https://i.imgur.com/GtQx9Q9.png?1)
+![](https://i.imgur.com/C6U98D9.png?1)
 
 2) To print College address.
         /* College Address */
@@ -35,7 +34,7 @@ printf("\n\t\t\tLudhiana , Punjab\n\n")
 return 0;
 }
 ```
-![](https://i.imgur.com/h96Qk8T.png?1)
+![](https://i.imgur.com/I2pQmxb.png?1)
 
 
 3) Program to add two integers.
@@ -62,10 +61,9 @@ return 0;
 
 }
 ```
-![](https://i.imgur.com/26g5SVJ.png?1)
+![](https://i.imgur.com/tKa73YP.png?1)
 
 4) Program to find quotient and remainder.
-    /* To find quotient and remainder */
 ```c
 
 
@@ -90,9 +88,10 @@ printf("\nQuotient: %d\n",q);
 return 0;
 }
 ```
-![](https://i.imgur.com/mPlKUuM.png?1)
+![](https://i.imgur.com/k0Bju4j.png?1)
+
 5) Program to swap two variables without 3rd variable.
-    /* Swapping without 3rd variable  */
+
 ```c
 #include <stdio.h>
 int main() {
@@ -115,9 +114,9 @@ printf("\nB: %d\n",b);
 return 0;
 }
 ```
-![](https://i.imgur.com/ljcsiC6.png?1)
+![](https://i.imgur.com/UEIU1bL.png?1)
+
 6) Program to check even odd number.
-/* To find whether number is even or odd */
 ```c
 #include<stdio.h>
 int main() { 
@@ -138,8 +137,8 @@ int main() {
 }
 ```
 ![](https://i.imgur.com/qynlIud.png?1)
+
 7) Finding greteast of two numbers.
-     /* Largest one in two */
 ```c
 #include<stdio.h>
 
@@ -157,8 +156,8 @@ return 0;
 }
 ```
 ![](https://i.imgur.com/LqHlWiX.png?1)
+
 8) Find greatest of three number .
-/* Largest of three number */
 ```c
 #include<stdio.h>
 int main() {
@@ -176,8 +175,8 @@ printf("\n\n Largest among 3 numbers :  %d\n", large) ;
 }
 ```
 ![](https://i.imgur.com/ePlds2M.png?1)
+
 9) Program to assign grade to student according to percentage.
-/* To find grade of a student by marks */
 ```c
 #include<stdio.h>
 int main() { 
@@ -227,8 +226,8 @@ agg=s1+s2+s3+s4+s5; // Aggregate Marks
 }
 ```
 ![](https://i.imgur.com/yzyoCUV.png?1)
+
 10) Program to print roots of quadratic equation.
-/*Program to print roots */
 ```c
 #include <stdio.h>
 #include <math.h>
@@ -261,7 +260,6 @@ int main()
 ![](https://i.imgur.com/qsQZFVJ.png?1)
 
 11) Program to check year is leap or not.
-/* To find whether year is leap or not */
 ```c
 #include<stdio.h>
 int main() { 
@@ -292,8 +290,8 @@ else
 }
 ```
 ![](https://i.imgur.com/bbNl6Gz.png?1)
+
 12) Program to print table of 6.
-/* Table of 6 */
 ```c
 #include<stdio.h>
 
@@ -310,8 +308,9 @@ res=5*i;
 }
 ```
 ![](https://i.imgur.com/JAR6TgB.png?1)
+
 13) To make simple calculator using switch case.
-/* C Program to Create Simple Calculator using Switch Case */
+
  ```c
 #include <stdio.h>
  
@@ -349,8 +348,8 @@ return 0;
 }
 ```
 ![](https://i.imgur.com/xcgIcls.png?1)
+
 14) To calculate reverse of a number.
-/* To find reverse of a Number*/
 ```c
 #include<stdio.h>
 int main() { 
@@ -375,6 +374,7 @@ while(num!=0)
 }
 ```
 ![](https://i.imgur.com/aMGLp0s.png?1)
+
 15) To check whether number is palindrome or not.
 /* Palindrome */
 ```c
@@ -405,6 +405,7 @@ int main() {
 }
 ```
 ![](https://i.imgur.com/4qizR69.png?1)
+
 16) To check whether a number is prime or not.
 
 ```c
@@ -442,6 +443,7 @@ return 0;
 }
 ```
 ![](https://i.imgur.com/gbQ59TP.png?1)
+
 17) Program to print prime number to 100.
 /* Prime number from 1 to 100 */
  ```c
@@ -480,6 +482,7 @@ printf(" The prime numbers between 1 and 100 : \n");
    } 
 ```
 ![](https://i.imgur.com/iniQFGP.png?1)
+
 18) Program to check whether a number is armstrong or not.
 ```c
 #include <stdio.h>
@@ -509,6 +512,7 @@ return 0;
 }
 ```
 ![](https://i.imgur.com/w97oyTB.png?2)
+
 19) Print Different Patterns.
 **i) Pattern 1**
 ```c
@@ -532,6 +536,7 @@ for(i=1; i<=r; ++i)
 }
 ```
 ![](https://i.imgur.com/gKYoLXy.png?1)
+
 **ii) Pattern 2**
 ```c
 #include <stdio.h>
@@ -553,8 +558,9 @@ int main() {
 }
 ```
 ![](https://i.imgur.com/isn6QEL.png?1)
+
 20) Program to find largest from 1 dimensional array.
-/* Largest in 1 dimensional array */
+
 ```c
 #include <stdio.h>
 int main() {
@@ -585,6 +591,7 @@ int main() {
 }
 ```
 ![](https://i.imgur.com/xML3bRe.png?1)
+
 21) To find sumof the N natural numbers in an array.
 ```c     
 #include<stdio.h>
@@ -609,6 +616,7 @@ for(c = 0; c < n; c++)
 }
 ```
 ![](https://i.imgur.com/tzMwbVB.png?1)
+
 22) Program to add two matrices .
 ```c    
 #include <stdio.h>
@@ -646,6 +654,7 @@ int main() {
 }
 ```
 ![](https://i.imgur.com/7QcPzvX.png?1)
+
 23) Program to multiply two matrices .
 ```c
 #include <stdio.h>
@@ -702,6 +711,7 @@ for (c=0;c<p;c++)
 }
 ```
 ![](https://i.imgur.com/O48KmX7.png?1)
+
 24) Program to check whether a string is palindrome or not .
 ```c
 #include <stdio.h>
@@ -734,6 +744,7 @@ int main(){
 }
 ```
 ![](https://i.imgur.com/VKwspxB.png?1)
+
 25) Program to perform basic operations like lenghth of string, string concat, string copy, string compare and string reverse.
 ```c
 #include <stdio.h> 
@@ -826,6 +837,7 @@ int main() {
 }
 ```
 ![](https://i.imgur.com/8TtnGfq.png?1)
+
 26) Programs to swap two numbers using call by value and call by refernce.
 **Call by reference**
 ```c
@@ -858,6 +870,7 @@ void swap(int *a, int *b)
 }
 ```
 ![](https://i.imgur.com/lAwDYdX.png?1)
+
 **call by value**
 ```c
 #include <stdio.h>
@@ -890,6 +903,7 @@ void swap(int a, int b) {
 }
 ```
 ![](https://i.imgur.com/OjugfZR.png?1)
+
 27) Program to calculate factorial of a number with and without recursion both.
 **With Recursion**
 ```c
@@ -912,6 +926,7 @@ long int multiplyNumbers(int n)
 }
 ```
 ![](https://i.imgur.com/jxiz6ee.png?1)
+
  **Without recursion:**
 ```c
 #include <stdio.h>
@@ -932,6 +947,7 @@ int main() {
   }
   ```
   ![](https://i.imgur.com/62rDKAL.png?1)
+  
 28) Program to print fibonacci series with and without recursion both.
  **with recursion**
 ```c
@@ -968,6 +984,7 @@ void series(int n)
 }
 ```
 ![](https://i.imgur.com/n4QcbJj.png?1)
+
  **without  recursion**
  ```c
 #include<stdio.h>    
@@ -988,6 +1005,7 @@ int main()
   }
   ```
   ![](https://i.imgur.com/cj5l47I.png?1)
+  
 29) Program to calculate average of 5 numbers using function.
  ```c
 #include<stdio.h>
@@ -1012,6 +1030,7 @@ int main() { int a1,a2,a3,a4,a5,res;
  }
 ```
 30) Program to implement linear serach and binary.
+
 **Linear Search**
 ```c
 #include <stdio.h>
@@ -1046,6 +1065,7 @@ int main()
 }
 ```
 ![](https://i.imgur.com/Qz9wZPP.png?1)
+
 **Binary Search**
 ```c
 #include <stdio.h>
@@ -1126,7 +1146,8 @@ int main()
   return 0;
   }
   ```
-  ![](https://i.imgur.com/4zGBWah.png?1)
+  ![](https://i.imgur.com/4zGBWah.png?1
+  
 32) Program to store information of 10 students using array of structures.
 
 ```c
@@ -1164,6 +1185,7 @@ int main()
 }
 ```
 ![](https://i.imgur.com/sqYQUiF.png?1)
+
 33) Programs to compute the transpose of a matrix.
 ```c
 #include <stdio.h>
@@ -1209,6 +1231,7 @@ int main()
 }
 ```
 ![](https://i.imgur.com/mGvIngL.png?1)
+
 34) Program to print the address of variable using pointer.
 ```c
 #include <stdio.h>
@@ -1226,6 +1249,7 @@ int main() {
 }
 ```
 ![](https://i.imgur.com/FWYZ0jo.png?1)
+
 35) Program to access array using pointer.
 ```c
 #include <stdio.h>
