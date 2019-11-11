@@ -1,4 +1,6 @@
-           ESC-18104/18105 Programming for Problem Solving
+       ![logo.png](https://i.imgur.com/9QO1ZX9.png) 
+
+       ESC-18104/18105 Programming for Problem Solving
 
                    Name - Rahul Garg
 
