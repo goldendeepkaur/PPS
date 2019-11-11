@@ -1029,6 +1029,7 @@ int main() { int a1,a2,a3,a4,a5,res;
    return p;
  }
 ```
+![](https://i.imgur.com/9d7UqQN.png?1)
 30) Program to implement linear serach and binary.
 
 **Linear Search**
