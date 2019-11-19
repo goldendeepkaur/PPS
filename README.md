@@ -38,7 +38,7 @@ printf("\n\t\t\tLudhiana, Punjab\n");
 
 return 0;
 }
-<img src ="">
+
 ```
 <img src="https://i.imgur.com/bhEApPD.jpg">
 
