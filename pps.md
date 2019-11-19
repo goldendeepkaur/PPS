@@ -27,7 +27,7 @@ Output:
 ![1](https://raw.githubusercontent.com/mansher0693/PPS/master/man.png)
 
 ## 2. To print College address
-C 
+```C 
 #include<stdio.h> 
 int main() 
 { 
@@ -36,11 +36,11 @@ int main()
     puts("Ludhiana,Punjab,");
     return 0; 
 }
-
+```
 Output:![Outpu2](https://raw.githubusercontent.com/mansher0693/PPS/master/2.png)
 
 ## 3. Program to add two integers .
-C
+```C
      #include<stdio.h>
 	.	int main()
 	{
@@ -55,12 +55,12 @@ C
 	   
 	   return 0;
 	}
-
+```
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/3.png)
 
 ## 4. Program to find quotient and remainder.
-C
+```C
 #include <stdio.h>
  
      int main()
@@ -78,12 +78,12 @@ C
       printf("Remainder = %d\n", remainder);
      return 0;
      }
-
+```
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/4.png)
 
 ## 5. Program to swap two variables without 3rd variable.
-C
+```C
 #include<stdio.h>  
      int main()    
      {       
@@ -96,11 +96,11 @@ C
 ",a,b);    
     return 0;  
     }   
-  
+```  
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/5.png)
 ## 6. Program to check even odd number.
-C
+```C
 #include <stdio.h>
 int main()
 {
@@ -113,11 +113,11 @@ int main()
         printf("%d is odd.", number);
     return 0;
 }
-`
+```
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/6.png)
 ## 7. Finding greatest of two numbers.
-C
+```C
 #include <stdio.h>  
    
 int main() {  
@@ -140,12 +140,12 @@ int main() {
    
     return 0;  
 }
-
+```
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/7.png)
 
 ## 8. Find greatest of three number .
-C
+```C
 #include <stdio.h>
 int main()
 {
@@ -160,12 +160,12 @@ int main()
         printf("%.2f is the largest number.\n", n3);
     return 0;
 }
-
+```
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/8.png)
 
 ## 9. Program to assign grade to student according to percentage.
-C
+```C
 #include<stdio.h>
 void main()
 {
@@ -200,13 +200,14 @@ void main()
     {
         printf("Grade A+");
     }
+    result 0;
 }
-	
+```	
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/9.png)
 
 ## 10. Program to print roots of quadratic equation.
-C
+```C
 #include <stdio.h>
 #include <math.h>
 int main()
@@ -234,11 +235,11 @@ int main()
     }
     return 0;
 }   
-
+```
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/10.png)
 ## 11. Program to check year is leap or not.
-C
+```C
 #include <stdio.h>
 int main()
 {
@@ -262,11 +263,11 @@ int main()
     
     return 0;
 }
-
+```
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/11.png)
 ## 12. Program to print table of 5.
-C
+```C
 #include <stdio.h>
 int main()
 {
@@ -279,11 +280,11 @@ int main()
     
     return 0;
 }
-
+```
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/12.png)
 ## 13. To make simple calculator using switch case.
-C
+```C
 #include <stdio.h>
 int main() {
     char operator;
@@ -312,11 +313,11 @@ int main() {
     
     return 0;
 }
-
+```
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/12.png)
 ## 14. To calculate reverse of a number.
-C
+```C
 #include <stdio.h>
  
 int main()
@@ -337,12 +338,12 @@ int main()
  
   return 0;
 }
-
+```
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/14.png)
 
 ## 15. To check whether number is palindrome or not.
-C
+```C
 #include <stdio.h>
  
 int main()
@@ -368,11 +369,12 @@ int main()
  
   return 0 ;
 }
+```
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/15.png)
 ## 16.	To check whether a number is prime or not.
 
-C 
+```C 
 #include <stdio.h>
 int main()
 {
@@ -397,10 +399,10 @@ int main()
              "and it is not a prime number);
  return 0;            
 }
-
+```
 Output:![](https://raw.githubusercontent.com/mansher0693/PPS/master/16.png)
 ## 17. Program to Print Prime Numbers between 1 to 100 using For Loop
-C 
+```C 
 #include <stdio.h>
  
 int main()
@@ -426,11 +428,11 @@ int main()
   }
   return 0;
 }
-
+```
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/17.png)
 ## 18. Program to check whether a number is armstrong or not.
-C
+```C
 #include<stdio.h>  
  int main()    
 {    
@@ -450,12 +452,12 @@ else
 printf("not armstrong number\n");    
 return 0;  
 } 
-
+```
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/18.png)
 ## 19.  Print Different Patterns.
 ### a.Pattern 1
-C 
+```C 
 #include <stdio.h>
 int main()
 {
@@ -472,11 +474,11 @@ int main()
     }
     return 0;
 }
-
+```
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/19a.png)
 ### b. Pattern 2
-C
+```C
 #include <stdio.h>
  
 int main()
@@ -498,12 +500,12 @@ int main()
  
   return 0;
 }
-
+```
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/19b.png)
 
 ## 20. Program to find largest from 1 dimensional array.
-C
+```C
 
 #include <stdio.h>
  
@@ -533,11 +535,11 @@ int main()
         return 0;
  
 }
-
+```
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/19b.png)
 ## 21. To find sum of the N natural numbers in an array.
-C
+```C
 #include <stdio.h>
  
 void main()
@@ -552,11 +554,11 @@ void main()
     }
     printf ("Sum of first %d natural numbers = %d\n", num, sum);
 }
-
+```
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/21.png)
 ## 22. Program to add two matrices .
-C
+```C
 #include <stdio.h>
  
 int main()
@@ -589,11 +591,12 @@ int main()
  
    return 0;
 }
-
+```
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/22.png)
 ## 23. Program to multiply two matrices .
-Cinclude <stdio.h>
+```C
+#include <stdio.h>
  
 int main()
 {
@@ -644,11 +647,11 @@ int main()
  
   return 0;
 }
-
+```
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/23.png)
 ## 24. Program to check whether a string is palindrome or not .
-C
+```C
 #include <stdio.h>
 #include <string.h>
 
@@ -679,10 +682,10 @@ int main(){
 }
 
 Output:
-
+```
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/24.png)
 ## 25. Program to perform basic operations like lenghth of string ,string concat, string copy ,string compare and string reverse.
-C
+```C
 #include <stdio.h> 
 #include <stdlib.h>
   
@@ -771,14 +774,12 @@ int main() {
   }
   return 0;
 }
-
-
-
+```
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/25a.png)
 ## 26. Programs to swap two numbers using call by value and call by reference.
 ### a. Swap by call by value
-C
+```C
 #include <stdio.h>
  
  
@@ -808,12 +809,13 @@ void swap(int a, int b)
    b = a;
    a = temp;
     printf("Values of a and b is %d  %d\n",a,b);
+    result 0;
 }
-
+```
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/26.png)
 ### b. Swap by reference
-C
+```C
 #include <stdio.h>
 
 void swap(int * num1, int * num2);
@@ -848,12 +850,12 @@ void swap(int * num1, int * num2)
     printf("Value of num1 = %d \n", *num1);
     printf("Value of num2 = %d \n\n", *num2);
 }
-
+```
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/26a.png)
 27. Program to calculate factorial of a number with and without recursion both.
 ### a. Factorial Using Recursion
-C
+```C
 #include <stdio.h>
 long int multi(int n);
 int main()
@@ -871,10 +873,10 @@ long int multi(int n)
     else
         return 1;
 }
-
+```
 Output:![](https://raw.githubusercontent.com/mansher0693/PPS/master/27.png)
 ### b. Without Recursion
-C
+```C
 #include <stdio.h>
  
 int main()
@@ -891,12 +893,12 @@ int main()
  
   return 0;
 }
-
+```
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/27a.png)
 ## 28. Program to print Fibonacci series with and without recursion both.
 ### a. Fibonacci series with recursion
-C
+```C
 #include<stdio.h>
  
 int Fibonacci(int);
@@ -927,11 +929,11 @@ int Fibonacci(int n)
    else
       return ( Fibonacci(n-1) + Fibonacci(n-2) );
 }
-
+```
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/28.png)
 ### b. Without recursion 
-C
+```C
 #include<stdio.h>    
 int main()    
 {    
@@ -948,11 +950,11 @@ int main()
  }  
   return 0;  
  }    
- 
+ ```
  Output:
  ![](https://raw.githubusercontent.com/mansher0693/PPS/master/28a.png)
 ## 29. Program to calculate average of 5 numbers using function.
-C
+```C
 #include <stdio.h>
 float average(int a, int b, int c, int d, int e){
     return (float)(a+b+c+d+e)/5;
@@ -981,12 +983,12 @@ int main()
     printf("Average of 5 numbers is: %.2f\n",avg);
     return 0;
 }   
-
+```
  Output:
  ![](https://raw.githubusercontent.com/mansher0693/PPS/master/29.png)
  ##   30. Program to implement linear serach and binary.
 ### a. Linear Search
-C
+```C
 #include <stdio.h>
   
 int main()
@@ -1017,12 +1019,12 @@ int main()
   
   return 0;
 }
-
+```
 
  Output:
  ![](https://raw.githubusercontent.com/mansher0693/PPS/master/30a.png)
 ### b. Binary Search
-C
+```C
 #include <stdio.h>
  
 int main()
@@ -1061,11 +1063,11 @@ int main()
  
    return 0;  
 }
-
+```
  Output:
  ![](https://raw.githubusercontent.com/mansher0693/PPS/master/30b.png)
 ## 31. Program to implement bubble sort.
-C
+```C
 #include <stdio.h>
  
 int main()
@@ -1100,11 +1102,11 @@ int main()
  
   return 0;
 }
-
+```
  Output:
  ![](https://raw.githubusercontent.com/mansher0693/PPS/master/31.png)
 ## 32. Program for students information using array structure.
-C
+```C
 #include <stdio.h>
 struct student
 {
@@ -1137,11 +1139,11 @@ int main()
     }
     return 0;
 }
-
+```
  Output:
  ![](https://raw.githubusercontent.com/mansher0693/PPS/master/32.png)
 ## 33. Programs to compute the transpose of a matrix.
-C
+```C
 #include <stdio.h>
 
 int main()
@@ -1178,11 +1180,11 @@ int main()
         }
     return 0;
 }
-
+```
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/33.png)
 ## 34. Program to print the address of variable using pointer.
-C
+```C
 #include <stdio.h>
 int main() {
   int b;
@@ -1194,7 +1196,7 @@ int main() {
   printf("\n[&a ]:Address of B = %p\n", &b);
 return 0 ;
 }
-
+```
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/34.png)
 
