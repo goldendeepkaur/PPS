@@ -15,14 +15,14 @@
 ----
 ## 1. To print name using puts.
 
-C
+```C
   include<stdio.h> 
     int main() 
  { 
     puts("My Name is MANSHER CHANDER");
     return 0; 
  }
-
+```
 Output:
 ![1](https://raw.githubusercontent.com/mansher0693/PPS/master/man.png)
 
@@ -1199,7 +1199,7 @@ Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/34.png)
 
 ## 35. Program to access array using pointer.
-C
+```C
 #include <stdio.h>
 int main()
 {
@@ -1212,6 +1212,6 @@ int main()
       printf("%d\n", *(data + i));
    return 0;
 }
-
+```
 Output:
 ![](https://raw.githubusercontent.com/mansher0693/PPS/master/35.png)
