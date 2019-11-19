@@ -34,7 +34,7 @@ int main() {
 
 printf("\n\t\t\tGuru Nanak Dev Engineering College,");
 printf("\n\t\t\tGill Road,");
-printf("\n\t\t\tLudhiana , Punjab\n");
+printf("\n\t\t\tLudhiana, Punjab\n");
 
 return 0;
 }
