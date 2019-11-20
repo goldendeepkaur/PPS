@@ -1,12 +1,16 @@
- 
+  
+<head>
+<style>
+    img:hover{
+        border: orange 3px solid;
+        transition:0.7s;
+        box-shadow:2px;
+    }     
+</style>    
+</head>
 <center><img src="https://i.imgur.com/EZtECRw.png"></center>
-
----
-
 <h3><b>Guru Nanak Dev Engineering College
     ESC-18104/18105 Programming for Problem Solving</b>
-  
-  ---
      
      Name - Suhkpreet Singh Ubhi Branch - C.S.E Section - C2 Roll Number - 1915353 
     
@@ -1352,7 +1356,6 @@ printf("\n");
 **Output:**
 <img src="https://i.imgur.com/x6I7LBQ.png"
      >
-
 
 
 
