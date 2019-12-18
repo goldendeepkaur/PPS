@@ -5,7 +5,7 @@
 
 ____
 # ***PROGRAMMING FOR PROBLEM SOLVING***
-# **NAME** :**
+# **NAME** :*NISHANT RAJ*
 ### **ROLL NO** : *1915360*
 ### **BRANCH** : *COMPUTER SCIENCE*
  ### **SECTION** : *C2*
