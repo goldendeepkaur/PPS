@@ -4,17 +4,17 @@
 ----
 # ESC-18104/18105 Programming for Problem Solving
 ----
-**Name-** Arshdeep Swarn 
+**Name-** Abhishek kumar 
 **Branch-** CSE 
-**SECTION**- C1 
-**ROLL NUMBER-** 1915303
+**SECTION**- C2
+**ROLL NUMBER-** 1915364
 
 ----
 ## 1. TO PRINT NAME USING PUTS
     include<stdio.h> 
     int main() 
     { 
-    puts("My Name is Arshdeep Swarn");
+    puts("My Name is Abhishek kumar");
     return 0; 
     }
 *OUTPUT;*
