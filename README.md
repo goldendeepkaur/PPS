@@ -5,8 +5,8 @@
 
 ____
 # ***PROGRAMMING FOR PROBLEM SOLVING***
-# **NAME** :*NISHANT RAJ*
-### **ROLL NO** : *1915360*
+# **NAME** :*SUMIT KUMAR*
+### **ROLL NO** : *1915367*
 ### **BRANCH** : *COMPUTER SCIENCE*
  ### **SECTION** : *C2*
 ____
@@ -19,7 +19,7 @@ ____
 int main()
 {
 puts("*********** ");
-puts("NISHANT RAJ");
+puts(" SUMIT KUMAR");
 puts("***********");
 return o;
 
