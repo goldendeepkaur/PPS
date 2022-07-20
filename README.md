@@ -5,10 +5,10 @@
 
 ____
 # ***PROGRAMMING FOR PROBLEM SOLVING***
-# **NAME** :*SUMIT KUMAR*
-### **ROLL NO** : *1915367*
+# **NAME** :*Nishant Raj*
+### **ROLL NO** : *1915360*
 ### **BRANCH** : *COMPUTER SCIENCE*
- ### **SECTION** : *C2*
+ ### **SECTION** : *C3*
 ____
 ### 1)To print your name using puts.
 ```c
@@ -19,7 +19,7 @@ ____
 int main()
 {
 puts("*********** ");
-puts(" SUMIT KUMAR");
+puts(" Nishant Raj");
 puts("***********");
 return o;
 
